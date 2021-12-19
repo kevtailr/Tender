@@ -20,7 +20,7 @@ import java.util.List;
 public class RestaurantService {
 
     private final String BASE_URL = "https://api.yelp.com/v3";
-    private final String API_KEY = "Pitw0I9VsxYc-wHu3Us_WTiMcfSehewIJw-sqDWBDdNdb5-haGIXthYN6oXI1enVAD3a-I0-r0tc1HdttbghiOMjEXDyaZnP7aC9M2lZXNryad-0AQsI0vz-m4-vYXYx";
+    private final String API_KEY = "[REDACTED]";
     private RestTemplate restTemplate = new RestTemplate();
 
     public RestaurantService() {
